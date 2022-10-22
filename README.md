@@ -9,3 +9,6 @@ Usage:
 python3 display_file3.py &
 
 <img src="https://imgur.com/TkxzTrN.jpg">
+<img src="https://imgur.com/gPqfYGB.jpg">
+<img src="https://imgur.com/xpOTsBv">
+<img src="https://imgur.com/f9ZZRaQ">
