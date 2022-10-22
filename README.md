@@ -1,4 +1,4 @@
-# moode_audio_lcd_16x2
+# Moode Audio display - lcd 16x2
 Simple python script to visualize the current artist/track and time
 
 Installation:
