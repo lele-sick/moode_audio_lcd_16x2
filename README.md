@@ -8,3 +8,4 @@ sudo pip install RPLCD
 Usage:
 python3 display_file3.py &
 
+<img src="https://imgur.com/TkxzTrN.jpg">
