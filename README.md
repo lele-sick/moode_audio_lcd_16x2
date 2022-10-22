@@ -6,7 +6,7 @@ Installation:
 sudo pip install RPLCD
 
 Usage:
-python3 display_file3.py &
+python3 display_file.py &
 
 <img src="https://imgur.com/TkxzTrN.jpg">
 <img src="https://imgur.com/gPqfYGB.jpg">
