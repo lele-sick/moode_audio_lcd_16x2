@@ -3,7 +3,7 @@ Simple python script to visualize the current artist/track and time
 
 Installation:
 
-sudo pip install RPLCD
+sudo pip3 install RPLCD
 
 Usage:
 python3 display_file.py &
