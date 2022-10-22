@@ -8,6 +8,8 @@ sudo pip3 install RPLCD
 Usage:
 python3 display_file.py &
 
+<b>NOW WITH BIG FONTS AND TRANSITIONS!</b>
+
 <img src="https://imgur.com/TkxzTrN.jpg">
 <img src="https://imgur.com/gPqfYGB.jpg">
 <img src="https://imgur.com/xpOTsBv.jpg">
