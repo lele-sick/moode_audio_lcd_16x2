@@ -1,7 +1,10 @@
 # Moode Audio display - lcd 16x2
 Simple python script to visualize the current artist/track and time
 
-Installation:
+Tested on moode audio 8.2.1
+The Lcd module is connected by i2c bus (default address 0x27)
+
+Install the required library:
 
 sudo pip3 install RPLCD
 
