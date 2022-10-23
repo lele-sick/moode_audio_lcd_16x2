@@ -2,6 +2,7 @@
 Simple python script to visualize the current artist/track and time
 
 Tested on moode audio 8.2.1
+
 The Lcd module is connected by i2c bus (default address 0x27)
 
 Install the required library:
